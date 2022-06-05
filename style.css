@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+
+}
+
+textarea {
+    margin: 2% 0%;
+}
+
+.card {
+    box-shadow: 1px 1px 7px 1px rgba(181, 181, 181, 0.708);
+}
+
+h1 {
+    margin-bottom: 2%;
+}
